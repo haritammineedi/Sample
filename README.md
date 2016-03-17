@@ -1,1 +1,3 @@
 # Sample
+Maser copy
+// Basic read me file to describe about syntax format...
